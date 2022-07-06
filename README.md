@@ -26,8 +26,7 @@
  
 ## :book: Sobre
 O **ProfileIssufiBadji**
- A consultoria surge, portanto, como uma solução para médicos, sociedades médicas, clínicas e hospitais que desejam estabelecer um negócio bem estruturado, eficiente e dentro dos regulamentos aplicáveis ao setor.<br>
-O projeto foi desenvolvido durante a [Maratona Explore 2](https://maratonadiscover.rocketseat.com.br/), realizada pela [Rocketseat](https://www.rocketseat.com.br/)
+ Projeto desenvolvido de perfil de rede, que foi desenvolvido sociais durante as aulas da [Maratona Explore 2.0](https://maratonadiscover.rocketseat.com.br/), com Mayk   Brito do [Rocketseat](https://www.rocketseat.com.br/)
 
 ## :cloud: Deploy
 O projeto está hospedado no Github Pages
