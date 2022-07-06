@@ -22,7 +22,7 @@
 <img alt="GitHub" src="https://img.shields.io/github/license/issufibadji/ClinicaDoutorDelfim?style=flat-square">
 </p>
 
- ![ConsultoriClinica](https://user-images.githubusercontent.com/45535344/174165483-fd31de2e-7ac5-431f-842a-b1b73f715fcc.gif)
+ ![profile](https://user-images.githubusercontent.com/45535344/177531360-e6b931e1-2652-432e-b6a5-d6645a92b12e.gif)
  
 ## :book: Sobre
 O **ProfileIssufiBadji**
