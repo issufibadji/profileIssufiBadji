@@ -43,7 +43,7 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 Para visualizar o layout do projeto crie ou acesse sua conta no [Figma](https://figma.com) e [desse link](https://www.figma.com/file/j8Fe7AGabn3hX2OCVLTB3i/Rocket-Links---Maratona-Explorer-2.0-(Community)?node-id=24%3A2) para acessá-lo.
 
 ## :memo: Licença
-Este projeto esta sobe a licença MIT. Consulte a [LICENÇA](https://github.com/issufibadji/ClinicaDoutorDelfim/blob/master/LICENSE) para obter mais informações.
+Este projeto esta sobe a licença MIT. Consulte a [LICENÇA](https://github.com/issufibadji/profileissufibadji/blob/master/LINCENSE) para obter mais informações.
 
 ---
 
