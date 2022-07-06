@@ -1,6 +1,6 @@
 
 <h1 align="center" color=" ">
-   profileIssufiBadji
+   ProfileIssufiBadji
 </h1>
 
 <p align="center">
@@ -13,13 +13,13 @@
 
 <p align="center">
    
-<img alt="GitHub language count" src="https://img.shields.io/github/languages/count/issufibadji/ClinicaDoutorDelfim?style=flat-square">
+<img alt="GitHub language count" src="https://img.shields.io/github/languages/count/issufibadji/profileissufibadji?style=flat-square">
 
-<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/issufibadji/ClinicaDoutorDelfim?style=flat-square">
+<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/issufibadji/profileissufibadji?style=flat-square">
 
-<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/issufibadji/ClinicaDoutorDelfim?style=flat-square">
+<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/issufibadji/profileissufibadji?style=flat-square">
 
-<img alt="GitHub" src="https://img.shields.io/github/license/issufibadji/ClinicaDoutorDelfim?style=flat-square">
+<img alt="GitHub" src="https://img.shields.io/github/license/issufibadji/profileissufibadji?style=flat-square">
 </p>
 
  ![profile](https://user-images.githubusercontent.com/45535344/177531360-e6b931e1-2652-432e-b6a5-d6645a92b12e.gif)
@@ -31,7 +31,7 @@ O projeto foi desenvolvido durante a [Maratona Explore 2](https://maratonadiscov
 
 ## :cloud: Deploy
 O projeto está hospedado no Github Pages
-> https://issufibadji.github.io/ClinicaDoutorDelfim/
+>https://issufibadji.github.io/profileissufibadji/
 
 ## :rocket: Tecnologias
 Este projeto foi desenvolvido utilizando as seguintes tecnologias:
