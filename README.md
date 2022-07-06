@@ -26,7 +26,7 @@
  
 ## :book: Sobre
 O **ProfileIssufiBadji**
- Projeto desenvolvido de perfil de rede, que foi desenvolvido sociais durante as aulas da [Maratona Explore 2.0](https://maratonadiscover.rocketseat.com.br/), com Mayk   Brito do [Rocketseat](https://www.rocketseat.com.br/)
+ Projeto desenvolvido de perfil de rede, que foi desenvolvido sociais durante as aulas da [Maratona Explore 2.0](https://evento.rocketseat.com.br/maratona-explorer/episodios/explorer/aula-1/edicao/2), com Mayk   Brito do [Rocketseat](https://www.rocketseat.com.br/)
 
 ## :cloud: Deploy
 O projeto está hospedado no Github Pages
